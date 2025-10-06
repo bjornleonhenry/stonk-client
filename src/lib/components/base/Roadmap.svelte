@@ -23,7 +23,7 @@
         <div class="text-primary text-xl font-black">
           Detailed stock market insights
         </div>
-        Stonk AI provides detailed stock market insights for any company.
+        Stonk Client provides detailed stock market insights for any company.
       </div>
       <hr />
     </li>
@@ -50,7 +50,7 @@
       <div class="timeline-start md:text-end">
         <!-- <time class="font-mono italic">The latest stock news</time> -->
         <div class="text-primary text-xl font-black">The latest stock news</div>
-        Stonk AI provides the latest stock news for any company. for any company
+        Stonk Client provides the latest stock news for any company. for any company
       </div>
       <hr />
     </li>
@@ -65,7 +65,7 @@
       <div class="timeline-end">
         <!-- <time class="font-mono italic">Recent videos</time> -->
         <div class="text-primary text-xl font-black">Recent videos</div>
-        Stonk AI provides recent videos for any company.
+        Stonk Client provides recent videos for any company.
       </div>
       <hr />
     </li>

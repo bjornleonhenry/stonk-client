@@ -39,7 +39,7 @@
 </script>
 
 <svelte:head>
-  <title>stonk ai</title>
+  <title>stonk cliend</title>
   <meta
     name="description"
     content="AI enhanced financial sentiment & analysis engine."
@@ -66,7 +66,7 @@
         />
       {/if}
     </div>
-    <div class="align-middle text-7xl font-thin sm:text-8xl">stonk ai</div>
+    <div class="align-middle text-7xl font-thin sm:text-8xl">stonk client</div>
   </div>
 
   {#if $isLoading}

@@ -64,7 +64,7 @@
 </script>
 
 <svelte:head>
-  <title>{data.ticker_info.symbol} | stonk ai</title>
+  <title>{data.ticker_info.symbol} | stonk client</title>
 </svelte:head>
 
 <div in:fade={{ delay: 0, duration: 936 }}>
