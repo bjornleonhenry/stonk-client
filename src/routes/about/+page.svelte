@@ -6,7 +6,7 @@
 
 <div class="flex flex-col gap-5">
 	<div>
-		<div class="ml-6 text-5xl font-thin lowercase md:ml-0 md:text-7xl">stonk client</div>
+		<div class="ml-6 text-5xl font-thin lowercase md:ml-0 md:text-7xl">stonk</div>
 		<div class="card md:card-side bg-base-100 h-full shadow-xl sm:min-h-80">
 			<figure class="w-full">
 				<img

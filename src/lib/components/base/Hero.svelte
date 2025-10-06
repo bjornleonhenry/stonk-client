@@ -31,7 +31,7 @@
 	<div class="hero-content text-neutral-content text-center">
 		<div class="max-w-md">
 			<div class="mx-auto flex w-full max-w-lg flex-col items-center justify-center">
-				<div class="py-5 text-7xl">Stonk Client</div>
+				<div class="py-5 text-7xl">Stonk</div>
 				<div class="font-thin">
 					Labore id consectetur proident id ipsum magna consectetur ut sunt officia et non. Nostrud
 					veniam

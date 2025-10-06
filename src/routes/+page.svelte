@@ -66,7 +66,7 @@
         />
       {/if}
     </div>
-    <div class="align-middle text-7xl font-thin sm:text-8xl">stonk client</div>
+    <div class="align-middle text-7xl font-thin sm:text-8xl">stonk</div>
   </div>
 
   {#if $isLoading}
