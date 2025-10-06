@@ -26,8 +26,8 @@
 
 					<div class="mt-5 font-thin">
 						Stonk AI is a project by
-						<a href="https://github.com/engageintellect" target="_blank" class="link text-primary">
-							@engageintellect
+						<a href="https://github.com/bjornleonhenry" target="_blank" class="link text-primary">
+							@bjornleonhenry
 						</a>
 					</div>
 				</div>
